@@ -1,0 +1,192 @@
+ #mostrar {
+ 	visibility: hidden;
+ }
+ #mostrar2 {
+ 	visibility: hidden;
+ }
+ #mostrar3 {
+ 	visibility: hidden;
+ }
+ #mostrar4 {
+ 	visibility: hidden;
+ }
+#song {
+	width: 350px;
+	margin-bottom: 20px;
+	height: 52px;
+	line-height: 52px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+}
+#empezar {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+#empezar:hover{
+	background: rgb(94,125,227, .9);
+}
+#si {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#no {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#songesc {
+	width: 350px;
+	margin-bottom: 20px;
+	height: 52px;
+	line-height: 52px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+}
+
+#agregar {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#mostrarlr {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#borrarsong {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#querola {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+#siguiente {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+#playlist {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
