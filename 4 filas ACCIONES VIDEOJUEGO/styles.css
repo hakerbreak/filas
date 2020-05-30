@@ -1,0 +1,89 @@
+#ted {
+	height: 300px;
+	width: 300px;
+	border-radius: 100px;
+	position: relative;
+}
+#botones input{
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#mostrar {
+	visibility: hidden;
+}
+
+#mostrar2 {
+	visibility: hidden;
+}
+
+#mostrar3 {
+	visibility: hidden;
+}
+
+#ejecutarpuerta{
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #BB88BB;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #5E7DE3;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#ejecutarllaves {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #CD5C5C;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #FA8072;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
+
+#ejecutarsaltar {
+	height: 52px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid #008000;
+	padding: 0 20px;
+	line-height: 40px;
+	border: none;
+	color: #fff;
+	background: #808000;
+	border-radius: 3px;
+	font-family: sans-serif;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all
+}
